@@ -21,16 +21,16 @@ flowchart TD
 
 | Path | Purpose |
 | --- | --- |
-| `project1.ipynb` | ETL notebook, run top to bottom |
+| `xml_sales_etl.ipynb` | ETL notebook, run top to bottom |
 | `Dataset/` | Supplied XML sample data |
-| `SQLQuery1.sql` | Database, schemas, and table definitions |
+| `warehouse_schema.sql` | Database, schemas, and table definitions |
 | `Images/` | Original supporting image assets |
 | `requirements.txt` | Python dependencies |
 
 ## Run locally
 
 1. Install SQL Server and SSMS, Python 3.10+, and Microsoft ODBC Driver 17 for SQL Server.
-2. In SSMS, execute `SQLQuery1.sql` on a fresh local instance/database. The DDL is a one-time setup, not a repeatable migration.
+2. In SSMS, execute `warehouse_schema.sql` on a fresh local instance/database. The DDL is a one-time setup, not a repeatable migration.
 3. Open a terminal in this project directory and run:
 
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-4. Open `project1.ipynb`. Adjust `localhost` and the ODBC driver in its connection cells if required. The defaults use Windows integrated authentication with database `project1_dwh`.
+4. Open `xml_sales_etl.ipynb`. Adjust `localhost` and the ODBC driver in its connection cells if required. The defaults use Windows integrated authentication with database `project1_dwh`.
 5. Run all cells in order. The notebook must run with this project directory as its working directory so `./Dataset/` resolves.
 6. Check the result in SSMS:
 
