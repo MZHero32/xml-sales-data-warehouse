@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+
+    <product>
+        <product_id>101</product_id>
+        <product_name>iPhone 15</product_name>
+        <category>Electronics</category>
+        <brand>Apple</brand>
+        <price>799.99</price>
+    </product>
+
+    <product>
+        <product_id>102</product_id>
+        <product_name>Galaxy S24</product_name>
+        <category>Electronics</category>
+        <brand>Samsung</brand>
+        <price>699.99</price>
+    </product>
+
+    <product>
+        <product_id>103</product_id>
+        <product_name>Nike Air Max</product_name>
+        <category>Shoes</category>
+        <brand>Nike</brand>
+        <price>129.99</price>
+    </product>
+
+    <product>
+        <product_id>104</product_id>
+        <product_name>Air Fryer</product_name>
+        <category>Home</category>
+        <brand>Philips</brand>
+        <price>149.99</price>
+    </product>
+
+    <product>
+        <product_id>105</product_id>
+        <product_name>Wireless Mouse</product_name>
+        <category>Electronics</category>
+        <brand>Logitech</brand>
+        <price>25.50</price>
+    </product>
+
+    <product>
+        <product_id>106</product_id>
+        <product_name>Office Chair</product_name>
+        <category>Furniture</category>
+        <brand>IKEA</brand>
+        <price>199.00</price>
+    </product>
+
+    <product>
+        <product_id>107</product_id>
+        <product_name>Running Shorts</product_name>
+        <category>Clothing</category>
+        <brand>Adidas</brand>
+        <price>19.99</price>
+    </product>
+
+    <product>
+        <product_id>108</product_id>
+        <product_name>Coffee Maker</product_name>
+        <category>Home</category>
+        <brand>Nespresso</brand>
+        <price>129.00</price>
+    </product>
+
+    <product>
+        <product_id>109</product_id>
+        <product_name>Leather Wallet</product_name>
+        <category>Accessories</category>
+        <brand>Gucci</brand>
+        <price>199.00</price>
+    </product>
+
+    <product>
+        <product_id>110</product_id>
+        <product_name>Bluetooth Speaker</product_name>
+        <category>Electronics</category>
+        <brand>JBL</brand>
+        <price>89.99</price>
+    </product>
+
+</products>

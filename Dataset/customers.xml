@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<customers>
+
+    <customer>
+        <customer_id>1</customer_id>
+        <first_name>Ahmed</first_name>
+        <last_name>Ali</last_name>
+        <email>ahmed@gmail.com</email>
+        <city>Cairo</city>
+    </customer>
+
+    <customer>
+        <customer_id>2</customer_id>
+        <first_name>Mohamed</first_name>
+        <last_name>Hassan</last_name>
+        <email>mohamed@gmail.com</email>
+        <city>Giza</city>
+    </customer>
+
+    <customer>
+        <customer_id>3</customer_id>
+        <first_name>Omar</first_name>
+        <last_name>Mahmoud</last_name>
+        <email>omar@gmail.com</email>
+        <city>Alexandria</city>
+    </customer>
+
+    <customer>
+        <customer_id>4</customer_id>
+        <first_name>Sara</first_name>
+        <last_name>Ibrahim</last_name>
+        <email>sara.ibrahim@gmail.com</email>
+        <city>Luxor</city>
+    </customer>
+
+    <customer>
+        <customer_id>5</customer_id>
+        <first_name>Youssef</first_name>
+        <last_name>Nabil</last_name>
+        <email>youssef.nabil@yahoo.com</email>
+        <city>Aswan</city>
+    </customer>
+
+    <customer>
+        <customer_id>6</customer_id>
+        <first_name>Mona</first_name>
+        <last_name>Adel</last_name>
+        <email>mona.adel@gmail.com</email>
+        <city>Mansoura</city>
+    </customer>
+
+    <customer>
+        <customer_id>7</customer_id>
+        <first_name>Khaled</first_name>
+        <last_name>Samir</last_name>
+        <email>khaled.samir@outlook.com</email>
+        <city>Tanta</city>
+    </customer>
+
+    <customer>
+        <customer_id>8</customer_id>
+        <first_name>Nour</first_name>
+        <last_name>Elsayed</last_name>
+        <email>nour.elsayed@gmail.com</email>
+        <city>Suez</city>
+    </customer>
+
+    <customer>
+        <customer_id>9</customer_id>
+        <first_name>Hana</first_name>
+        <last_name>Yasser</last_name>
+        <email>hana.yasser@gmail.com</email>
+        <city>Ismailia</city>
+    </customer>
+
+    <customer>
+        <customer_id>10</customer_id>
+        <first_name>Karim</first_name>
+        <last_name>Fouad</last_name>
+        <email>karim.fouad@gmail.com</email>
+        <city>Cairo</city>
+    </customer>
+
+    <customer>
+        <customer_id>11</customer_id>
+        <first_name>Laila</first_name>
+        <last_name>Kamal</last_name>
+        <email>laila.kamal@yahoo.com</email>
+        <city>Port Said</city>
+    </customer>
+
+    <customer>
+        <customer_id>12</customer_id>
+        <first_name>Mostafa</first_name>
+        <last_name>Rashad</last_name>
+        <email>mostafa.rashad@gmail.com</email>
+        <city>Fayoum</city>
+    </customer>
+
+    <customer>
+        <customer_id>13</customer_id>
+        <first_name>Dina</first_name>
+        <last_name>Hatem</last_name>
+        <email>dina.hatem@gmail.com</email>
+        <city>Zagazig</city>
+    </customer>
+
+    <customer>
+        <customer_id>14</customer_id>
+        <first_name>Amr</first_name>
+        <last_name>Zaki</last_name>
+        <email>amr.zaki@hotmail.com</email>
+        <city>Minya</city>
+    </customer>
+
+    <customer>
+        <customer_id>15</customer_id>
+        <first_name>Rana</first_name>
+        <last_name>Fathy</last_name>
+        <email>rana.fathy@gmail.com</email>
+        <city>Qena</city>
+    </customer>
+
+    <customer>
+        <customer_id>16</customer_id>
+        <first_name>Tarek</first_name>
+        <last_name>Saleh</last_name>
+        <email>tarek.saleh@gmail.com</email>
+        <city>Sohag</city>
+    </customer>
+
+    <customer>
+        <customer_id>17</customer_id>
+        <first_name>Mariam</first_name>
+        <last_name>Ashraf</last_name>
+        <email>mariam.ashraf@gmail.com</email>
+        <city>Beni Suef</city>
+    </customer>
+
+    <customer>
+        <customer_id>18</customer_id>
+        <first_name>Hassan</first_name>
+        <last_name>Gamal</last_name>
+        <email>hassan.gamal@yahoo.com</email>
+        <city>Damietta</city>
+    </customer>
+
+    <customer>
+        <customer_id>19</customer_id>
+        <first_name>Salma</first_name>
+        <last_name>Wael</last_name>
+        <email>salma.wael@gmail.com</email>
+        <city>Giza</city>
+    </customer>
+
+    <customer>
+        <customer_id>20</customer_id>
+        <first_name>Bassel</first_name>
+        <last_name>Sherif</last_name>
+        <email>bassel.sherif@outlook.com</email>
+        <city>Cairo</city>
+    </customer>
+
+    <customer>
+        <customer_id>21</customer_id>
+        <first_name>Farida</first_name>
+        <last_name>Kamal</last_name>
+        <email>farida.kamal@gmail.com</email>
+        <city>Alexandria</city>
+    </customer>
+
+    <customer>
+        <customer_id>22</customer_id>
+        <first_name>Mahmoud</first_name>
+        <last_name>Ezzat</last_name>
+        <email>mahmoud.ezzat@yahoo.com</email>
+        <city>Luxor</city>
+    </customer>
+
+    <customer>
+        <customer_id>23</customer_id>
+        <first_name>Reem</first_name>
+        <last_name>Hosny</last_name>
+        <email>reem.hosny@gmail.com</email>
+        <city>Aswan</city>
+    </customer>
+
+    <customer>
+        <customer_id>24</customer_id>
+        <first_name>Ziad</first_name>
+        <last_name>Fouad</last_name>
+        <email>ziad.fouad@hotmail.com</email>
+        <city>Mansoura</city>
+    </customer>
+
+    <customer>
+        <customer_id>25</customer_id>
+        <first_name>Nada</first_name>
+        <last_name>Adel</last_name>
+        <email>nada.adel@gmail.com</email>
+        <city>Tanta</city>
+    </customer>
+
+    <customer>
+        <customer_id>26</customer_id>
+        <first_name>Sherif</first_name>
+        <last_name>Nabil</last_name>
+        <email>sherif.nabil@outlook.com</email>
+        <city>Suez</city>
+    </customer>
+
+    <customer>
+        <customer_id>27</customer_id>
+        <first_name>Yara</first_name>
+        <last_name>Samir</last_name>
+        <email>yara.samir@gmail.com</email>
+        <city>Ismailia</city>
+    </customer>
+
+    <customer>
+        <customer_id>28</customer_id>
+        <first_name>Ali</first_name>
+        <last_name>Mostafa</last_name>
+        <email>ali.mostafa@yahoo.com</email>
+        <city>Port Said</city>
+    </customer>
+
+    <customer>
+        <customer_id>29</customer_id>
+        <first_name>Heba</first_name>
+        <last_name>Rashad</last_name>
+        <email>heba.rashad@gmail.com</email>
+        <city>Fayoum</city>
+    </customer>
+
+    <customer>
+        <customer_id>30</customer_id>
+        <first_name>Kareem</first_name>
+        <last_name>Hatem</last_name>
+        <email>kareem.hatem@gmail.com</email>
+        <city>Zagazig</city>
+    </customer>
+
+    <customer>
+        <customer_id>31</customer_id>
+        <first_name>Ghada</first_name>
+        <last_name>Zaki</last_name>
+        <email>ghada.zaki@hotmail.com</email>
+        <city>Minya</city>
+    </customer>
+
+    <customer>
+        <customer_id>32</customer_id>
+        <first_name>Adel</first_name>
+        <last_name>Fathy</last_name>
+        <email>adel.fathy@gmail.com</email>
+        <city>Qena</city>
+    </customer>
+
+    <customer>
+        <customer_id>33</customer_id>
+        <first_name>Menna</first_name>
+        <last_name>Saleh</last_name>
+        <email>menna.saleh@gmail.com</email>
+        <city>Sohag</city>
+    </customer>
+
+    <customer>
+        <customer_id>34</customer_id>
+        <first_name>Ramy</first_name>
+        <last_name>Ashraf</last_name>
+        <email>ramy.ashraf@yahoo.com</email>
+        <city>Beni Suef</city>
+    </customer>
+
+    <customer>
+        <customer_id>35</customer_id>
+        <first_name>Esraa</first_name>
+        <last_name>Gamal</last_name>
+        <email>esraa.gamal@gmail.com</email>
+        <city>Damietta</city>
+    </customer>
+
+    <customer>
+        <customer_id>36</customer_id>
+        <first_name>Walid</first_name>
+        <last_name>Wael</last_name>
+        <email>walid.wael@outlook.com</email>
+        <city>Giza</city>
+    </customer>
+
+    <customer>
+        <customer_id>37</customer_id>
+        <first_name>Rania</first_name>
+        <last_name>Sherif</last_name>
+        <email>rania.sherif@gmail.com</email>
+        <city>Cairo</city>
+    </customer>
+
+    <customer>
+        <customer_id>38</customer_id>
+        <first_name>Tamer</first_name>
+        <last_name>Kamal</last_name>
+        <email>tamer.kamal@yahoo.com</email>
+        <city>Alexandria</city>
+    </customer>
+
+    <customer>
+        <customer_id>39</customer_id>
+        <first_name>Doaa</first_name>
+        <last_name>Ezzat</last_name>
+        <email>doaa.ezzat@gmail.com</email>
+        <city>Luxor</city>
+    </customer>
+
+    <customer>
+        <customer_id>40</customer_id>
+        <first_name>Ehab</first_name>
+        <last_name>Hosny</last_name>
+        <email>ehab.hosny@hotmail.com</email>
+        <city>Aswan</city>
+    </customer>
+
+    <customer>
+        <customer_id>41</customer_id>
+        <first_name>Shaimaa</first_name>
+        <last_name>Fouad</last_name>
+        <email>shaimaa.fouad@gmail.com</email>
+        <city>Mansoura</city>
+    </customer>
+
+    <customer>
+        <customer_id>42</customer_id>
+        <first_name>Hazem</first_name>
+        <last_name>Adel</last_name>
+        <email>hazem.adel@outlook.com</email>
+        <city>Tanta</city>
+    </customer>
+
+    <customer>
+        <customer_id>43</customer_id>
+        <first_name>Nourhan</first_name>
+        <last_name>Nabil</last_name>
+        <email>nourhan.nabil@gmail.com</email>
+        <city>Suez</city>
+    </customer>
+
+    <customer>
+        <customer_id>44</customer_id>
+        <first_name>Islam</first_name>
+        <last_name>Samir</last_name>
+        <email>islam.samir@yahoo.com</email>
+        <city>Ismailia</city>
+    </customer>
+
+    <customer>
+        <customer_id>45</customer_id>
+        <first_name>Aya</first_name>
+        <last_name>Mostafa</last_name>
+        <email>aya.mostafa@gmail.com</email>
+        <city>Port Said</city>
+    </customer>
+
+    <customer>
+        <customer_id>46</customer_id>
+        <first_name>Basma</first_name>
+        <last_name>Rashad</last_name>
+        <email>basma.rashad@gmail.com</email>
+        <city>Fayoum</city>
+    </customer>
+
+    <customer>
+        <customer_id>47</customer_id>
+        <first_name>Maged</first_name>
+        <last_name>Hatem</last_name>
+        <email>maged.hatem@hotmail.com</email>
+        <city>Zagazig</city>
+    </customer>
+
+    <customer>
+        <customer_id>48</customer_id>
+        <first_name>Passant</first_name>
+        <last_name>Zaki</last_name>
+        <email>passant.zaki@gmail.com</email>
+        <city>Minya</city>
+    </customer>
+
+    <customer>
+        <customer_id>49</customer_id>
+        <first_name>Fady</first_name>
+        <last_name>Fathy</last_name>
+        <email>fady.fathy@yahoo.com</email>
+        <city>Qena</city>
+    </customer>
+
+    <customer>
+        <customer_id>50</customer_id>
+        <first_name>Habiba</first_name>
+        <last_name>Saleh</last_name>
+        <email>habiba.saleh@gmail.com</email>
+        <city>Sohag</city>
+    </customer>
+
+</customers>
